@@ -1,4 +1,4 @@
-@extends('layouts.base-front')
+@extends('layouts.base-front2')
 
 @section('title','Form Pengaduan')
 
